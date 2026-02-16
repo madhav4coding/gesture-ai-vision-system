@@ -26,6 +26,10 @@ The system captures webcam frames and processes them in real-time:
 - Different gestures switch between mouse mode, drawing mode, and study mode.
 
 ---
+## Demo
+Video demonstration available on LinkedIn.
+
+------
 
 ## Installation
 
